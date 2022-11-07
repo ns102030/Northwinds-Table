@@ -19,7 +19,7 @@ Repository for Analysis of Northwinds Dataset
 7. Which customers have multiple orders in a 5 day period?
 
 ## Database used:
-[chinook.db](https://github.com/ns102030/Music_Store_Analysis_Using_SQL/blob/main/Music%20Store%20Database%20Analysis%20Using%20SQL/chinook.db)
+[NorthwindsDB_Setup.sql] https://github.com/ns102030/Northwinds-Table/blob/main/Northwind%20Analysis/NorthwindsDB_Setup.sql
 
 ## Database diagram:
 
