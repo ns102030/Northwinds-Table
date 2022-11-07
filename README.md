@@ -19,7 +19,7 @@ Repository for Analysis of Northwinds Dataset
 7. Which customers have multiple orders in a 5 day period?
 
 ## Database used:
-[NorthwindsDB_Setup.sql] https://github.com/ns102030/Northwinds-Table/blob/main/Northwind%20Analysis/NorthwindsDB_Setup.sql
+[NorthwindsDB_Setup.sql]https://github.com/ns102030/Northwinds-Table/blob/main/Northwind%20Analysis/NorthwindsDB_Setup.sql
 
 ## Database diagram:
 
