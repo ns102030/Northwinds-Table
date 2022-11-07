@@ -5,9 +5,9 @@ Repository for Analysis of Northwinds Dataset
 ## Prerequisites:
 -Install Microsoft SQL Server 2019. If you already have SQL Sever 2012-2017 installed, the code should run just fine.
 
--Install SQL Server Management Studion (SSMS).
+-Install SQL Server Management Studio (SSMS).
 
--Execute NorthwindsDB_Setup file.
+-Execute NorthwindsDB_Setup.sql in SSMS.
 
 ## Questions:
 1. What are our highest value customers?
