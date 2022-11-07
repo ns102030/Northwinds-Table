@@ -14,7 +14,7 @@ Repository for Analysis of Northwinds Dataset
 2. What are the orders made at the end of the month?
 3. Which orders are late?
 4. Which salespeople have the most orders arriving late?
-5. Which salespeople ahve the most orders arriving late compared to their total sales volume?
+5. Which salespeople have the most orders arriving late compared to their total sales volume?
 6. How can we categorize our customers into "Low", "Medium", and "High" value?
 7. Which customers have multiple orders in a 5 day period?
 
