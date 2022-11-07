@@ -24,3 +24,4 @@ Repository for Analysis of Northwinds Dataset
 ## Database diagram:
 
 We will be using this diagram in order to help visualize the various joins needed to create the queries to answer our questions. The rows with keys next to the column name represent the primary keys of each table. The lines connect the foreign keys of a table to the primary key of the other table.
+![Database Diagram](https://github.com/ns102030/Northwinds-Table/blob/main/Northwind%20Analysis/Database_Diagram.jpg)
